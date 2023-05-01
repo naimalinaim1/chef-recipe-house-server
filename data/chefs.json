@@ -1,0 +1,368 @@
+[
+  {
+    "id": 1,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "num_recipes": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kabuli Pulao",
+        "description": "A traditional Afghan rice dish made with lamb, raisins, and carrots.",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb lamb meat, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "1/2 cup raisins",
+          "1/2 cup shredded carrots",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground cardamom",
+          "1/2 tsp ground cinnamon",
+          "1/4 cup vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "In a large pot, heat vegetable oil over medium heat. Add onions and cook until softened and lightly browned.",
+          "Add lamb meat to the pot and cook until browned on all sides.",
+          "Add cumin, cardamom, and cinnamon to the pot and stir to combine.",
+          "Add 4 cups of water to the pot and bring to a boil.",
+          "Add basmati rice to the pot and stir to combine.",
+          "Reduce heat to low, cover, and simmer for 20-25 minutes or until rice is cooked and water has been absorbed.",
+          "In a separate pan, heat a small amount of oil over medium heat. Add shredded carrots and raisins and cook until softened.",
+          "Serve rice topped with lamb meat and the carrot-raisin mixture."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bolani",
+        "description": "A savory Afghan flatbread stuffed with spiced vegetables.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground coriander",
+          "1/4 tsp cayenne pepper",
+          "2 cups mashed potatoes",
+          "1 onion, chopped",
+          "1 tbsp vegetable oil"
+        ],
+        "directions": [
+          "In a large bowl, combine flour, water, salt, cumin, coriander, and cayenne pepper. Knead until a smooth dough forms.",
+          "Cover dough and let rest for 30 minutes.",
+          "In a separate bowl, combine mashed potatoes and chopped onion.",
+          "Divide dough into 8 equal pieces. Roll each piece into a thin circle.",
+          "Place a spoonful of the potato mixture onto one half of each circle. Fold the other half of the circle over the filling and press edges together to seal.",
+          "In a large skillet, heat vegetable oil over medium heat. Cook each bolani for 2-3 minutes on each side or until golden brown and crispy.",
+          "Serve hot with yogurt sauce."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "num_recipes": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kabuli Pulao",
+        "description": "A traditional Afghan rice dish made with lamb, raisins, and carrots.",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb lamb meat, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "1/2 cup raisins",
+          "1/2 cup shredded carrots",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground cardamom",
+          "1/2 tsp ground cinnamon",
+          "1/4 cup vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "In a large pot, heat vegetable oil over medium heat. Add onions and cook until softened and lightly browned.",
+          "Add lamb meat to the pot and cook until browned on all sides.",
+          "Add cumin, cardamom, and cinnamon to the pot and stir to combine.",
+          "Add 4 cups of water to the pot and bring to a boil.",
+          "Add basmati rice to the pot and stir to combine.",
+          "Reduce heat to low, cover, and simmer for 20-25 minutes or until rice is cooked and water has been absorbed.",
+          "In a separate pan, heat a small amount of oil over medium heat. Add shredded carrots and raisins and cook until softened.",
+          "Serve rice topped with lamb meat and the carrot-raisin mixture."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bolani",
+        "description": "A savory Afghan flatbread stuffed with spiced vegetables.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground coriander",
+          "1/4 tsp cayenne pepper",
+          "2 cups mashed potatoes",
+          "1 onion, chopped",
+          "1 tbsp vegetable oil"
+        ],
+        "directions": [
+          "In a large bowl, combine flour, water, salt, cumin, coriander, and cayenne pepper. Knead until a smooth dough forms.",
+          "Cover dough and let rest for 30 minutes.",
+          "In a separate bowl, combine mashed potatoes and chopped onion.",
+          "Divide dough into 8 equal pieces. Roll each piece into a thin circle.",
+          "Place a spoonful of the potato mixture onto one half of each circle. Fold the other half of the circle over the filling and press edges together to seal.",
+          "In a large skillet, heat vegetable oil over medium heat. Cook each bolani for 2-3 minutes on each side or until golden brown and crispy.",
+          "Serve hot with yogurt sauce."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "num_recipes": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kabuli Pulao",
+        "description": "A traditional Afghan rice dish made with lamb, raisins, and carrots.",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb lamb meat, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "1/2 cup raisins",
+          "1/2 cup shredded carrots",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground cardamom",
+          "1/2 tsp ground cinnamon",
+          "1/4 cup vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "In a large pot, heat vegetable oil over medium heat. Add onions and cook until softened and lightly browned.",
+          "Add lamb meat to the pot and cook until browned on all sides.",
+          "Add cumin, cardamom, and cinnamon to the pot and stir to combine.",
+          "Add 4 cups of water to the pot and bring to a boil.",
+          "Add basmati rice to the pot and stir to combine.",
+          "Reduce heat to low, cover, and simmer for 20-25 minutes or until rice is cooked and water has been absorbed.",
+          "In a separate pan, heat a small amount of oil over medium heat. Add shredded carrots and raisins and cook until softened.",
+          "Serve rice topped with lamb meat and the carrot-raisin mixture."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bolani",
+        "description": "A savory Afghan flatbread stuffed with spiced vegetables.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground coriander",
+          "1/4 tsp cayenne pepper",
+          "2 cups mashed potatoes",
+          "1 onion, chopped",
+          "1 tbsp vegetable oil"
+        ],
+        "directions": [
+          "In a large bowl, combine flour, water, salt, cumin, coriander, and cayenne pepper. Knead until a smooth dough forms.",
+          "Cover dough and let rest for 30 minutes.",
+          "In a separate bowl, combine mashed potatoes and chopped onion.",
+          "Divide dough into 8 equal pieces. Roll each piece into a thin circle.",
+          "Place a spoonful of the potato mixture onto one half of each circle. Fold the other half of the circle over the filling and press edges together to seal.",
+          "In a large skillet, heat vegetable oil over medium heat. Cook each bolani for 2-3 minutes on each side or until golden brown and crispy.",
+          "Serve hot with yogurt sauce."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "num_recipes": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kabuli Pulao",
+        "description": "A traditional Afghan rice dish made with lamb, raisins, and carrots.",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb lamb meat, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "1/2 cup raisins",
+          "1/2 cup shredded carrots",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground cardamom",
+          "1/2 tsp ground cinnamon",
+          "1/4 cup vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "In a large pot, heat vegetable oil over medium heat. Add onions and cook until softened and lightly browned.",
+          "Add lamb meat to the pot and cook until browned on all sides.",
+          "Add cumin, cardamom, and cinnamon to the pot and stir to combine.",
+          "Add 4 cups of water to the pot and bring to a boil.",
+          "Add basmati rice to the pot and stir to combine.",
+          "Reduce heat to low, cover, and simmer for 20-25 minutes or until rice is cooked and water has been absorbed.",
+          "In a separate pan, heat a small amount of oil over medium heat. Add shredded carrots and raisins and cook until softened.",
+          "Serve rice topped with lamb meat and the carrot-raisin mixture."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bolani",
+        "description": "A savory Afghan flatbread stuffed with spiced vegetables.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground coriander",
+          "1/4 tsp cayenne pepper",
+          "2 cups mashed potatoes",
+          "1 onion, chopped",
+          "1 tbsp vegetable oil"
+        ],
+        "directions": [
+          "In a large bowl, combine flour, water, salt, cumin, coriander, and cayenne pepper. Knead until a smooth dough forms.",
+          "Cover dough and let rest for 30 minutes.",
+          "In a separate bowl, combine mashed potatoes and chopped onion.",
+          "Divide dough into 8 equal pieces. Roll each piece into a thin circle.",
+          "Place a spoonful of the potato mixture onto one half of each circle. Fold the other half of the circle over the filling and press edges together to seal.",
+          "In a large skillet, heat vegetable oil over medium heat. Cook each bolani for 2-3 minutes on each side or until golden brown and crispy.",
+          "Serve hot with yogurt sauce."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "num_recipes": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kabuli Pulao",
+        "description": "A traditional Afghan rice dish made with lamb, raisins, and carrots.",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb lamb meat, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "1/2 cup raisins",
+          "1/2 cup shredded carrots",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground cardamom",
+          "1/2 tsp ground cinnamon",
+          "1/4 cup vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "In a large pot, heat vegetable oil over medium heat. Add onions and cook until softened and lightly browned.",
+          "Add lamb meat to the pot and cook until browned on all sides.",
+          "Add cumin, cardamom, and cinnamon to the pot and stir to combine.",
+          "Add 4 cups of water to the pot and bring to a boil.",
+          "Add basmati rice to the pot and stir to combine.",
+          "Reduce heat to low, cover, and simmer for 20-25 minutes or until rice is cooked and water has been absorbed.",
+          "In a separate pan, heat a small amount of oil over medium heat. Add shredded carrots and raisins and cook until softened.",
+          "Serve rice topped with lamb meat and the carrot-raisin mixture."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bolani",
+        "description": "A savory Afghan flatbread stuffed with spiced vegetables.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground coriander",
+          "1/4 tsp cayenne pepper",
+          "2 cups mashed potatoes",
+          "1 onion, chopped",
+          "1 tbsp vegetable oil"
+        ],
+        "directions": [
+          "In a large bowl, combine flour, water, salt, cumin, coriander, and cayenne pepper. Knead until a smooth dough forms.",
+          "Cover dough and let rest for 30 minutes.",
+          "In a separate bowl, combine mashed potatoes and chopped onion.",
+          "Divide dough into 8 equal pieces. Roll each piece into a thin circle.",
+          "Place a spoonful of the potato mixture onto one half of each circle. Fold the other half of the circle over the filling and press edges together to seal.",
+          "In a large skillet, heat vegetable oil over medium heat. Cook each bolani for 2-3 minutes on each side or until golden brown and crispy.",
+          "Serve hot with yogurt sauce."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "John Smith",
+    "experience": "10 years",
+    "num_recipes": 50,
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Kabuli Pulao",
+        "description": "A traditional Afghan rice dish made with lamb, raisins, and carrots.",
+        "ingredients": [
+          "2 cups basmati rice",
+          "1 lb lamb meat, cut into bite-sized pieces",
+          "2 onions, chopped",
+          "1/2 cup raisins",
+          "1/2 cup shredded carrots",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground cardamom",
+          "1/2 tsp ground cinnamon",
+          "1/4 cup vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "directions": [
+          "In a large pot, heat vegetable oil over medium heat. Add onions and cook until softened and lightly browned.",
+          "Add lamb meat to the pot and cook until browned on all sides.",
+          "Add cumin, cardamom, and cinnamon to the pot and stir to combine.",
+          "Add 4 cups of water to the pot and bring to a boil.",
+          "Add basmati rice to the pot and stir to combine.",
+          "Reduce heat to low, cover, and simmer for 20-25 minutes or until rice is cooked and water has been absorbed.",
+          "In a separate pan, heat a small amount of oil over medium heat. Add shredded carrots and raisins and cook until softened.",
+          "Serve rice topped with lamb meat and the carrot-raisin mixture."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bolani",
+        "description": "A savory Afghan flatbread stuffed with spiced vegetables.",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 cup water",
+          "1/2 tsp salt",
+          "1/2 tsp ground cumin",
+          "1/2 tsp ground coriander",
+          "1/4 tsp cayenne pepper",
+          "2 cups mashed potatoes",
+          "1 onion, chopped",
+          "1 tbsp vegetable oil"
+        ],
+        "directions": [
+          "In a large bowl, combine flour, water, salt, cumin, coriander, and cayenne pepper. Knead until a smooth dough forms.",
+          "Cover dough and let rest for 30 minutes.",
+          "In a separate bowl, combine mashed potatoes and chopped onion.",
+          "Divide dough into 8 equal pieces. Roll each piece into a thin circle.",
+          "Place a spoonful of the potato mixture onto one half of each circle. Fold the other half of the circle over the filling and press edges together to seal.",
+          "In a large skillet, heat vegetable oil over medium heat. Cook each bolani for 2-3 minutes on each side or until golden brown and crispy.",
+          "Serve hot with yogurt sauce."
+        ]
+      }
+    ]
+  }
+]
