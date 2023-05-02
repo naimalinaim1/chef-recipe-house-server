@@ -20,6 +20,21 @@ app.get("/team", (req, res) => {
   res.send(team);
 });
 
+app.get("/chef/:id", (req, res) => {
+  const id = Number(req.params.id);
+  const findChef = chefs.find((chef) => chef.id === id);
+  res.send(findChef);
+});
+
+app.get("/recipe/:id", (req, res) => {
+  const [userId, recipeId] = req.params.id.split("_");
+  const findChef = chefs.find((chef) => chef.id === Number(userId));
+  const findRecipe = findChef.recipes.find(
+    (recipe) => recipe.id === Number(recipeId)
+  );
+  res.send(findRecipe);
+});
+
 app.listen(PORT, () => {
   console.log(`Example app listening on port ${PORT}`);
 });
