@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sarah",
+    "picture": "https://img.freepik.com/premium-photo/man-cook-preparing-food-kitchen-table-vegetables_494741-37116.jpg"
+  },
+  {
+    "id": 3,
+    "name": "David",
+    "picture": "https://img.freepik.com/free-photo/cheerful-young-bearded-chef-man-wearing-white-cooker-uniform-hat-holding-megaphone-with-open-hand-while-looking-white-wall_141793-32351.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Jane",
+    "picture": "https://img.freepik.com/free-photo/closeup-hand-chef-baker-making-pizza-kitchen_155003-2320.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Peter",
+    "picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Maria",
+    "picture": "https://img.freepik.com/premium-photo/man-cook-preparing-food-kitchen-table-vegetables_494741-37116.jpg"
+  }
+]

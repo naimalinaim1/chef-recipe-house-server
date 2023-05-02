@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
     "name": "John Smith",
     "experience": "10 years",
     "num_recipes": 50,
@@ -62,7 +62,7 @@
   },
   {
     "id": 2,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
     "name": "John Smith",
     "experience": "10 years",
     "num_recipes": 50,
@@ -123,7 +123,7 @@
   },
   {
     "id": 3,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
     "name": "John Smith",
     "experience": "10 years",
     "num_recipes": 50,
@@ -184,7 +184,7 @@
   },
   {
     "id": 4,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
     "name": "John Smith",
     "experience": "10 years",
     "num_recipes": 50,
@@ -245,7 +245,7 @@
   },
   {
     "id": 5,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
     "name": "John Smith",
     "experience": "10 years",
     "num_recipes": 50,
@@ -306,7 +306,7 @@
   },
   {
     "id": 6,
-    "picture": "https://example.com/chef1.jpg",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
     "name": "John Smith",
     "experience": "10 years",
     "num_recipes": 50,
