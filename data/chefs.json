@@ -97,8 +97,8 @@
   },
   {
     "id": 2,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
-    "name": "John Smith",
+    "picture": "https://img.freepik.com/premium-photo/portrait-chef-kitchen_23-2148006345.jpg",
+    "name": "Emily Gcc",
     "experience": "10 years",
     "num_recipes": 50,
     "recipes": [
@@ -193,8 +193,8 @@
   },
   {
     "id": 3,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
-    "name": "John Smith",
+    "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg",
+    "name": "Michael",
     "experience": "10 years",
     "num_recipes": 50,
     "recipes": [
@@ -289,8 +289,8 @@
   },
   {
     "id": 4,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
-    "name": "John Smith",
+    "picture": "https://img.freepik.com/free-photo/man-cook-holds-pan-with-vegetables-flying-air_613910-771.jpg",
+    "name": "Sarah",
     "experience": "10 years",
     "num_recipes": 50,
     "recipes": [
@@ -385,7 +385,7 @@
   },
   {
     "id": 5,
-    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
+    "picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg",
     "name": "John Smith",
     "experience": "10 years",
     "num_recipes": 50,
@@ -482,7 +482,7 @@
   {
     "id": 6,
     "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS9KPtJmKFF5_eKzwbnTO5R2FSopdJEmDZ460aJw_Cxuocv8TWI3QPlVO6F_X7SI6v0cM&usqp=CAU",
-    "name": "John Smith",
+    "name": "David",
     "experience": "10 years",
     "num_recipes": 50,
     "recipes": [
