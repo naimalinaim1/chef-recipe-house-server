@@ -1,0 +1,1 @@
+https://chef-recipe-hunter-server-plum.vercel.app
